@@ -1,6 +1,8 @@
 # HTML-IP-Webcam
 Streaming the IP Webcamera to HTML page.
 
+<br>
+
 Click [here](https://play.google.com/store/apps/details?id=com.pas.webcam) for installation the `IP Webcam` android app from Play Store
 
 ## Code Implementation
@@ -42,9 +44,11 @@ Click [here](https://play.google.com/store/apps/details?id=com.pas.webcam) for i
 </body>
 </html>
 ```
+<br>
+
 **Note:** `REPLACE-YOUR-WEBCAM-IP` portion with your actual IP.
 
-
+<br>
 <br>
 
 ### _Author: [Mahfuz Hasan Reza](https://github.com/mahfuzhasanreza/)_
