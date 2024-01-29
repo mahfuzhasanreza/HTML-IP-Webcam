@@ -1,4 +1,4 @@
-# HTML-IP-Webcam
+# html-ip-webcam
 Streaming the IP Webcamera to HTML page.
 
 <br>
